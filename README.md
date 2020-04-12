@@ -1,5 +1,5 @@
 # Portfolio-Grid
-This is a simple static portfolio website aimed to learn Bootstrap, HTML, CSS and honing the frontend development skills.\
+This is a simple static portfolio website as a hobby project aimed to learn Bootstrap, HTML, CSS and honing the frontend development skills.\
 [Portfolio-Grid](https://ahmedfawzy98.github.io/Bootstrap-portfoliogrid-website/)
 
 ## Built With
